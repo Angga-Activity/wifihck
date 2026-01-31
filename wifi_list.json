@@ -1,0 +1,6 @@
+[
+  {"ssid": "Indihome", "level": -45, "security": "WPA2"},
+  {"ssid": "TP-Link_Home", "level": -60, "security": "WPA2"},
+  {"ssid": "AndroidAP", "level": -70, "security": "WPA2"},
+  {"ssid": "FreeWifi", "level": -55, "security": "OPEN"}
+]
